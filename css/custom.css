@@ -1,0 +1,15 @@
+.update-plan ul {
+  padding-left: 1.2em;
+  margin: 0.4em 0;
+}
+
+.update-plan li {
+  margin: 0.35em 0;
+  line-height: 1.6;
+}
+
+.update-plan-time {
+  margin-top: 0.6em;
+  font-size: 0.85em;
+  opacity: 0.7;
+}
