@@ -13,3 +13,23 @@
   font-size: 0.85em;
   opacity: 0.7;
 }
+
+.changelog-widget ul {
+  margin: 0.4em 0 0.6em;
+  padding-left: 1.2em;
+}
+
+.changelog-widget li {
+  margin: 0.3em 0;
+  line-height: 1.6;
+}
+
+.changelog-widget p {
+  margin: 0 0 0.4em;
+}
+
+.changelog-more {
+  display: inline-block;
+  margin-top: 0.3em;
+  font-size: 0.9em;
+}
